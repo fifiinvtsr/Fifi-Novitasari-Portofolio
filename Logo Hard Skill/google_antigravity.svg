@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 48" width="250" height="48">
+  <defs>
+    <!-- Google Colors Gradient for 'A' Chevron -->
+    <linearGradient id="gBlue" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#4285F4"/>
+      <stop offset="100%" stop-color="#34A853"/>
+    </linearGradient>
+    <linearGradient id="gRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA4335"/>
+      <stop offset="100%" stop-color="#FBBC05"/>
+    </linearGradient>
+  </defs>
+  <!-- Google Antigravity Chevron / Logo mark -->
+  <g transform="translate(6, 6)">
+    <!-- Stylized 'A' Chevron with Google 4 Colors -->
+    <path d="M16 2 L29 32 C29.8 33.8 28.2 35.8 26.2 35.2 L16 31.5 L5.8 35.2 C3.8 35.8 2.2 33.8 3 32 Z" fill="#4285F4"/>
+    <path d="M16 2 L29 32 L22 30 L16 16 Z" fill="#34A853"/>
+    <path d="M16 2 L16 16 L10 30 L3 32 Z" fill="#FBBC05"/>
+    <path d="M16 2 L22 16 L10 16 Z" fill="#EA4335"/>
+    <circle cx="16" cy="18" r="3.2" fill="#FFFFFF"/>
+  </g>
+  <!-- Google Antigravity Clean Font Text -->
+  <text x="44" y="32" font-family="'Product Sans', -apple-system, BlinkMacSystemFont, 'Google Sans', Roboto, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" letter-spacing="-0.3">Google <tspan font-weight="400" fill="#FFFFFF">Antigravity</tspan></text>
+</svg>

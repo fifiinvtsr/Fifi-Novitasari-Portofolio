@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 48" width="170" height="48">
+  <defs>
+    <linearGradient id="offHex1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5C35"/>
+      <stop offset="100%" stop-color="#EB3C00"/>
+    </linearGradient>
+    <linearGradient id="offHex2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EB3C00"/>
+      <stop offset="100%" stop-color="#BA1D00"/>
+    </linearGradient>
+  </defs>
+  <!-- Office Ribbon/Tile Icon -->
+  <g transform="translate(6, 6)">
+    <!-- 3D Open Book / Folder Tiles -->
+    <path d="M4 6 C4 4.5 5 3.5 6.5 3.5 L24 0 C25.5 0 27 1.2 27 3 L27 33 C27 34.5 25.5 36 24 36 L6.5 33 C5 33 4 31.8 4 30.5 Z" fill="url(#offHex1)"/>
+    <path d="M10 9 L21 6.8 C22 6.8 23 7.5 23 8.5 L23 27.5 C23 28.5 22 29.2 21 29.2 L10 27 Z" fill="#FFFFFF"/>
+    <path d="M12.5 11 L18.5 9.8 L18.5 26.2 L12.5 25 Z" fill="url(#offHex2)"/>
+  </g>
+  <!-- "Office" Text in crisp, high-def typography -->
+  <text x="44" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Office</text>
+</svg>
