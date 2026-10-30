@@ -63,11 +63,11 @@ document.addEventListener('DOMContentLoaded', () => {
   // ===== TYPING EFFECT =====
   const typedElement = document.getElementById('typedText');
   const texts = [
-    'UI/UX Designer',
-    'Graphic Designer',
+    'Programmer',
+    'Software Developer',
     'Data Analyst',
-    'Fresh Graduate 2026',
-    'Machine Learning Enthusiast'
+    'UI/UX Designer',
+    'Fresh Graduate 2026'
   ];
   let textIndex = 0;
   let charIndex = 0;
